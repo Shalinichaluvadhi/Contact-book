@@ -1,0 +1,1 @@
+Contact book is a GUI-based project built using Python Tkinter module and message module. A contact book is used to store some person's contacts like name, phone number etc. In this project, we'll build our own contact book using the python programming language
